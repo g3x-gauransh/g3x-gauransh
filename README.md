@@ -2,7 +2,6 @@
 - 👀 I’m interested in Backend development esp in Java and C++, android-development in kotlin,deep-learning
 - 🧑‍💻 I have 2.5 years of experience as Software Developer in Java at ION Group
 - 🌱 I’m currently learning System Designs and Tensorflow
-- 💞️ I’m looking to collaborate on android-development
 - 📫 How to reach me :
   email: gauranshgupta99@gmail.com
   linkedin:www.linkedin.com/in/gauransh-gupta-3b12931b7
