@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @g3x-gauransh
+- 📝 Currently, I am persuing Master's in Computer Science from Northeastern University.
 - 👀 I’m interested in Backend development esp in Java and C++, android-development in kotlin,deep-learning
 - 🧑‍💻 I have 2.5 years of experience as Software Developer in Java at ION Group
 - 🌱 I’m currently learning System Designs and Tensorflow
